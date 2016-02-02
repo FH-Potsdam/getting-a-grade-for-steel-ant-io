@@ -1,0 +1,27 @@
+{
+  "author": "YOUR NAME",
+  "github": "YOUR GITHUB USER NAME",
+  "url": "http://deine.online.praesenz.de/kann/sein/twitter/facebook/eigene-webiste",
+  "contact":"e-mail oder social network",
+  "repos": [
+    "GITHUB REPOS CREATED DRING THE SEMSTER ONLY THE NAME NOT THE URL",
+    "AND ANOTHER PROJECT 2",
+    "AND ANOTHER PROJECT 3",
+    "AND MORE",
+    "AND MORE"
+  ],
+  "algorithm": {
+    "title": "YOUR TITLE FOR THE ALGORITHM",
+    "image": ".png",
+    "thumb": "ldr-1-thumb.png",
+    "repo-url": "http://github.com/user/repo",
+    "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
+  },
+  "iss": {
+    "title": "YOUR TITLE FOR CROWDSOURING",
+    "image": "ldr.png",
+    "thumb": "ldr-thumb.png",
+    "repo-url": "http://github.com/user/repo",
+    "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
+  }
+}
