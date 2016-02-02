@@ -25,7 +25,7 @@ This repository contains examples for all the files you need to provide.
 - __Example-README.md__ (contains some examples on Markdown and what sections a README.md could have)
 - __code__ The code folder should contain all your source code
 - __data.json__ is the layout for your infos that will be part of the website
-__images__ The images folder contains examples for the images ignore the anim.gif and the canvas.png they are just for the Example-README.md  
+- __images__ The images folder contains examples for the images ignore the anim.gif and the canvas.png they are just for the Example-README.md  
 
 
 ## Each of you should deliver   
