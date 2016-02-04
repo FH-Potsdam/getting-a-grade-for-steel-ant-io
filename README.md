@@ -1,6 +1,8 @@
 Getting a grade for "Input/Output Fundamentals of Process-Oriented Design"
 =========================================================================
 
+[![Join the chat at https://gitter.im/FH-Potsdam/getting-a-grade-for-steel-ant-io](https://badges.gitter.im/FH-Potsdam/getting-a-grade-for-steel-ant-io.svg)](https://gitter.im/FH-Potsdam/getting-a-grade-for-steel-ant-io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 A check list for creating the documentation for the seminar Input/Output - basics of process oriented design ("Eingabe/Ausgabe. Grundlagen der prozessorientierten Gestaltung").  
 
