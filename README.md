@@ -16,7 +16,7 @@ A check list for creating the documentation for the seminar Input/Output - basic
 6. Your source code works or you need to have directions in your README.md how to install all dependencies and run your code.  
 7. If you created a poster for the ISS project you need to provide your InDesign or Photoshop files as well.  
 8. Your README.md is valid Markdown syntax. You can learn that [here](http://www.remarq.io/articles/five-minutes-to-markdown-mastery/)  
-9. Your data.json is valid JSON. you can validate it [here](http://jsonlint.com/) 
+9. Add your data to this repository. Your data.json has to be valid JSON. you can validate it [here](http://jsonlint.com/)
 10. Your documentation and README.mds should be written in English
 11. your documentation and README.mds should allow the reader to reproduce your project (if it is source code) or at least (in case of the posters for the ISS project) fully understand what the gist is. This means you need to describe also the process of aggregating your data. All scraping steps and so on.  
 12. Don't forget the microsite.  
@@ -62,7 +62,7 @@ This repository contains examples for all the files you need to provide.
 [This will be the home for all the data ](https://interface.fh-potsdam.de/eingabe-ausgabe/2015-2016/)
 
 - [ ] GitHub repository with your data   
-- [ ] data.json filled and valid ([Validate JSON here](http://jsonlint.com/))  
+- [ ] data.json filled and valid ([Validate JSON here](http://jsonlint.com/)) and added to [this repository](https://github.com/FH-Potsdam/steel-ant-io-data.json)  
 - [ ] all the 500 × 500 images and their thumbnails  
 
 
