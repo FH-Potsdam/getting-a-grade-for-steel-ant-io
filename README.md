@@ -37,7 +37,7 @@ This repository contains examples for all the files you need to provide.
 - [ ] GitHub repository with microsite  
 - [ ] README.md for that repo  
 - [ ] image Beauty Shot(s) (1920 × 1080 PNG-24)  
-- [ ] image for algorithm (500 × 500 PNG-25)
+- [ ] image for algorithm (500 × 500 PNG-24)
 - [ ] image thumbnail for algorithm (64 × 64 PNG-24)
 - [ ] source code (working with comments)  
 - [ ] License for your code  
@@ -50,7 +50,7 @@ This repository contains examples for all the files you need to provide.
 - [ ] GitHub repository with microsite  
 - [ ] README.md for that repo  
 - [ ] image Beauty Shot(s) (1920 × 1080 PNG-24)  
-- [ ] image for ISS (500 × 500 PNG-25)
+- [ ] image for ISS (500 × 500 PNG-24)
 - [ ] image thumbnail for ISS (64 × 64 PNG-24)  
 - [ ] source code (working with comments)  
 - [ ] License for your code  
